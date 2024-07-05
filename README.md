@@ -22,15 +22,31 @@ http através de API RestFull. Nessa caso, requisição feita à API publica Res
 para a estrutura do site, o arquivo index.css, para a estilização, e por fim o arquivo index.js para fazer a comunicação com API através do modulo 
 fetch() e Json(). Além do DOM Javascript para construir a posição dos elementos na página. 
 
+
+
 Arquivo Html
 ![image](https://github.com/NathaliaFernandes28/APIRestfullRestCountries/assets/88513545/e1f1a497-76e7-49bd-813f-8ea50ebf8ae5)
 
+
+
+
+
 Arquivo Css
 ![image](https://github.com/NathaliaFernandes28/APIRestfullRestCountries/assets/88513545/c24b5dcd-1224-45d1-8753-1305665a490b)
+
+
 ![image](https://github.com/NathaliaFernandes28/APIRestfullRestCountries/assets/88513545/baac7986-ebe9-472e-8375-135fdcefdc34)
+
+
+
+
+
 
 Arquivo Js
 ![image](https://github.com/NathaliaFernandes28/APIRestfullRestCountries/assets/88513545/49f76849-2b67-4943-b368-1ecc8ab9648c)
+
+
+
 ![image](https://github.com/NathaliaFernandes28/APIRestfullRestCountries/assets/88513545/bbe996e2-5add-431b-8210-4c2e4c32f398)
 
 
